@@ -23,6 +23,19 @@ image datasets, and have the potential to provide accurate diagnoses using medic
 diversity of the training datasets, optimizing hyperparameters, and using other advanced
 machine learning algorithms
 
+## Analysis:
+1. The classification models showed high accuracy in identifying Covid, brain tumor,
+Alzheimer's, Pneumonia, Diabetes, and heart disease.
+2. Random Forest algorithm performed well in predicting Diabetes and heart disease.
+3. Convolutional Neural Networks performed well in predicting all other diseases.
+4. The GUI developed using HTML, CSS, and Bootstrap, integrated with Flask, makes it easy for
+users to interact with the disease prediction models.
+5. The CNN models used for Covid, brain tumor, Alzheimer's, and Pneumonia, were trained on
+image datasets, and have the potential to provide accurate diagnoses using medical imaging.
+6. The accuracy of the classification models can be further improved by increasing the size and
+diversity of the training datasets, optimizing hyperparameters, and using other advanced
+machine learning algorithms
+
 ## SYSTEM REQUIREMENT :
 ### SOFTWARE & PLATFORM REQUIREMENTS:
 1 end
