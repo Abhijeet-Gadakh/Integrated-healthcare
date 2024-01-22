@@ -20,7 +20,7 @@ multiple disease prediction
 
 
 #### Covid-19 Result :
-<img src="./PHOTOS/b.png" alt="Image Alt Text" height="170"/><img src="./PHOTOS/c.png" alt="Image Alt Text" height="170"/><img src="./PHOTOS/d.png" alt="Image Alt Text" height="170"/>
+<img src="./PHOTOS/b.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/c.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/d.png" alt="Image Alt Text" height="180"/>
 
 
 
