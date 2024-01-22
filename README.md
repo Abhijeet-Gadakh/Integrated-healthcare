@@ -35,6 +35,9 @@ multiple disease prediction
 #### pneunonia  Result :
 <img src="./PHOTOS/n.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/o.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/p.png" alt="Image Alt Text" height="140"/>
 
+#### Heart Disease  Result :
+<img src="./PHOTOS/q.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/r.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/s.png" alt="Image Alt Text" height="140"/>
+
 
 
 ## Analysis:
