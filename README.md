@@ -10,6 +10,9 @@ multiple disease prediction
 ### Problem Statement/Oppurtunity:
 • Our project tackles the problem of identifying serious diseases like Alzheimer's, Brain Tumor, COVID-19, Diabetes, Heart Disease, and Pneumonia early on. Currently, there's a challenge in quickly and accurately diagnosing these conditions. We use advanced technology like machine learning to create a user-friendly system that can predict these diseases, helping doctors and individuals take action sooner for better health outcomes.
 
+![Image Alt Text](./PHOTOS/abc.png)
+
+
 ## Analysis:
 1. The classification models showed high accuracy in identifying Covid, brain tumor,
 Alzheimer's, Pneumonia, Diabetes, and heart disease.
