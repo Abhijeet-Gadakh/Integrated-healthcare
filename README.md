@@ -24,17 +24,12 @@ diversity of the training datasets, optimizing hyperparameters, and using other 
 machine learning algorithms
 
 ## Analysis:
-1. The classification models showed high accuracy in identifying Covid, brain tumor,
-Alzheimer's, Pneumonia, Diabetes, and heart disease.
-2. Random Forest algorithm performed well in predicting Diabetes and heart disease.
-3. Convolutional Neural Networks performed well in predicting all other diseases.
-4. The GUI developed using HTML, CSS, and Bootstrap, integrated with Flask, makes it easy for
-users to interact with the disease prediction models.
-5. The CNN models used for Covid, brain tumor, Alzheimer's, and Pneumonia, were trained on
-image datasets, and have the potential to provide accurate diagnoses using medical imaging.
-6. The accuracy of the classification models can be further improved by increasing the size and
-diversity of the training datasets, optimizing hyperparameters, and using other advanced
-machine learning algorithms
+1. Operating System: Windows OS .
+2. Platform: Visual Studio Code / Python IDLE, Jupyter Notebook.
+3. Frontend Language: - HTML, CSS, JavaScript, Bootstrap .
+4. Framework Used:- Flask.
+5. Backend Language and Libraries: - Python 3.8+, Pandas, Numpy, Tensorflow, Keras, Scikit-learn. Cv2, OpenCV, Flask Framework, Matplotlib.
+6. 
 
 ## SYSTEM REQUIREMENT :
 ### SOFTWARE & PLATFORM REQUIREMENTS:
