@@ -23,7 +23,7 @@ image datasets, and have the potential to provide accurate diagnoses using medic
 diversity of the training datasets, optimizing hyperparameters, and using other advanced
 machine learning algorithms
 
-## Analysis:
+## SYSTEM REQUIREMENT:
 ### SOFTWARE & PLATFORM REQUIREMENTS:
 1. Operating System: Windows OS .
 2. Platform: Visual Studio Code / Python IDLE, Jupyter Notebook.
