@@ -29,10 +29,6 @@ machine learning algorithms
 3. Frontend Language: - HTML, CSS, JavaScript, Bootstrap .
 4. Framework Used:- Flask.
 5. Backend Language and Libraries: - Python 3.8+, Pandas, Numpy, Tensorflow, Keras, Scikit-learn. Cv2, OpenCV, Flask Framework, Matplotlib.
-6. 
-
-## SYSTEM REQUIREMENT :
-### SOFTWARE & PLATFORM REQUIREMENTS:
-1 end
-2 start
-3 fg
+6. Processor: INTEL Pentium 4 Core Processor.
+7. Hard Disk: Minimum 100 GB and above.
+8. RAM: Minimum 256 GB and above 
