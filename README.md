@@ -29,6 +29,9 @@ multiple disease prediction
 #### Alzheimer Result :
 <img src="./PHOTOS/h.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/i.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/j.png" alt="Image Alt Text" height="140"/>
 
+#### Diabetes  Result :
+<img src="./PHOTOS/k.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/l.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/m.png" alt="Image Alt Text" height="140"/>
+
 
 
 ## Analysis:
