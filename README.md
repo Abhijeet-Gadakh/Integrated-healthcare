@@ -71,5 +71,5 @@ machine learning algorithms
 The project successfully achieved its objectives by utilizing machine learning and deep learning techniques to develop a highly efficient medical system with a user-friendly interface..
 
 
-#                                            Thank You
+#                                            Thank You    !
 
