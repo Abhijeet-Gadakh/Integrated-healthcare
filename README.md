@@ -26,6 +26,9 @@ multiple disease prediction
 #### Brain Tumor Result :
 <img src="./PHOTOS/e.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/f.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/g.png" alt="Image Alt Text" height="140"/>
 
+#### Alzheimer Result :
+<img src="./PHOTOS/h.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/i.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/j.png" alt="Image Alt Text" height="140"/>
+
 
 
 ## Analysis:
