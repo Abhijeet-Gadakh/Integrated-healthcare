@@ -32,6 +32,9 @@ multiple disease prediction
 #### Diabetes  Result :
 <img src="./PHOTOS/k.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/l.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/m.png" alt="Image Alt Text" height="140"/>
 
+#### pneunonia  Result :
+<img src="./PHOTOS/n.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/o.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/p.png" alt="Image Alt Text" height="140"/>
+
 
 
 ## Analysis:
