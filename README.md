@@ -34,4 +34,12 @@ machine learning algorithms
 ### HARDWARE REQUIREMENTS
 6. Processor: INTEL Pentium 4 Core Processor.
 7. Hard Disk: Minimum 100 GB and above.
-8. RAM: Minimum 256 GB and above 
+8. RAM: Minimum 256 GB and above
+
+
+## Conclusion:
+The project successfully achieved its objectives by utilizing machine learning and deep learning techniques to develop a highly efficient medical system with a user-friendly interface..
+
+
+#Thank You
+
