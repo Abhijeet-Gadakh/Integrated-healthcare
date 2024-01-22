@@ -14,9 +14,12 @@ multiple disease prediction
 <img src="./PHOTOS/a.png" alt="Image Alt Text" height="350"/>
 
 
-### Disease Discription Pages :
+## Disease Discription Pages :
 <img src="./PHOTOS/abc.png" alt="Image Alt Text" height="200"/> <img src="./PHOTOS/xyz.png" alt="Image Alt Text" height="200"/>
 
+
+
+#### Covid-19 Result :
 
 
 
