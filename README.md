@@ -23,6 +23,10 @@ multiple disease prediction
 <img src="./PHOTOS/b.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/c.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/d.png" alt="Image Alt Text" height="180"/>
 
 
+#### Brain Tumor Result :
+<img src="./PHOTOS/e.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/f.png" alt="Image Alt Text" height="180"/><img src="./PHOTOS/g.png" alt="Image Alt Text" height="180"/>
+
+
 
 ## Analysis:
 1. The classification models showed high accuracy in identifying Covid, brain tumor,
