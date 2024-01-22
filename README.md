@@ -11,7 +11,7 @@ multiple disease prediction
 • Our project tackles the problem of identifying serious diseases like Alzheimer's, Brain Tumor, COVID-19, Diabetes, Heart Disease, and Pneumonia early on. Currently, there's a challenge in quickly and accurately diagnosing these conditions. We use advanced technology like machine learning to create a user-friendly system that can predict these diseases, helping doctors and individuals take action sooner for better health outcomes.
 
 # Home Page :
-<img src="./PHOTOS/abc.png" alt="Image Alt Text" height="500"/>
+<img src="./PHOTOS/a.png" alt="Image Alt Text" height="400"/>
 
 <img src="./PHOTOS/abc.png" alt="Image Alt Text" height="200"/> <img src="./PHOTOS/xyz.png" alt="Image Alt Text" height="200"/>
 
