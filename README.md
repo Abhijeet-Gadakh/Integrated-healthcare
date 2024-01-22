@@ -25,9 +25,6 @@ machine learning algorithms
 
 ## SYSTEM REQUIREMENT :
 ### SOFTWARE & PLATFORM REQUIREMENTS:
-1 Operating System: Windows OS.
-2 Platform: Visual Studio Code / Python IDLE, Jupyter Notebook.
-3 Frontend Language: - HTML, CSS, JavaScript, Bootstrap .
-4 Framework Used:- Flask .
-5 Backend Language and Libraries: - Python 3.8+, Pandas, Numpy, Tensorflow, Keras, Scikit-learn. Cv2, OpenCV, Flask Framework, Matplotlib
-
+1 end
+2 start
+3 fg
