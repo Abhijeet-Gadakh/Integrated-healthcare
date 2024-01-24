@@ -55,7 +55,7 @@ machine learning algorithms
 
 ## SYSTEM REQUIREMENT:
 ### SOFTWARE & PLATFORM REQUIREMENTS:
-1. Operating System: Windows OS .
+1. Operating System: [![Windows](https://img.shields.io/badge/Windows-10-blue?logo=windows)](https://www.microsoft.com/windows/) .
 2. Platform: Visual Studio Code / Python IDLE, Jupyter Notebook.
 3. Frontend Language: - ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple) .
 4. Framework Used:- Flask.
