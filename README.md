@@ -58,7 +58,7 @@ machine learning algorithms
 1. Operating System: [![Windows](https://img.shields.io/badge/Windows-10-blue?logo=windows)](https://www.microsoft.com/windows/) .
 2. Platform: Visual Studio Code / Python IDLE, Jupyter Notebook.
 3. Frontend Language: - ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple) .
-4. Framework Used:- Flask.
+4. Framework Used:- [![Flask Version](https://img.shields.io/badge/Flask-2.0-green.svg)](https://palletsprojects.com/p/flask/).
 5. Backend Language and Libraries: - Python 3.8+, Pandas, Numpy, Tensorflow, Keras, Scikit-learn. Cv2, OpenCV, Flask Framework, Matplotlib.
 
 ### HARDWARE REQUIREMENTS
